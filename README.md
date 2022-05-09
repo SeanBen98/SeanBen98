@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeanBen98
+- 👋 Hi, I’m Sean Benson
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on web projects
